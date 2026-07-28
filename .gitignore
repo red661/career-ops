@@ -119,3 +119,7 @@ plan/
 
 # Web
 .career-ops-web/logo-cache/
+.gstack/
+data/discard.log
+jianli/岗位评估与投递工作流程.md
+jianli/lanyang.md
